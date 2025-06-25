@@ -58,9 +58,9 @@ const linksList: EssentialLinkProps[] = [
   },
   {
     title: 'Github',
-    caption: 'github.com/quasarframework',
+    caption: 'github.com/openbeadsmcp',
     icon: 'code',
-    link: 'https://github.com/quasarframework'
+    link: 'https://github.com/openbeadsmcp'
   },
   {
     title: 'Discord Chat Channel',
